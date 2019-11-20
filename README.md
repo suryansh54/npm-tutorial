@@ -1,1 +1,53 @@
-# npm-tutorial
+# npm tutorial
+
+<ol>
+  <li><a href="javascript:;">Introduction</a></li>
+  <li><a href="javascript:;">Getting npm</a></li>
+  <li><a href="javascript:;">npm Help</a></li>
+  <li><a href="javascript:;">package.json File</a></li>
+  <li><a href="javascript:;">package json Defaults</a></li>
+  <li><a href="javascript:;">Installing Local Packages</a></li>
+  <li><a href="javascript:;">Uninstalling Local Packages</a></li>
+  <li><a href="javascript:;">Installing Global Packages</a></li>
+  <li><a href="javascript:;">Uninstalling Global Packages</a></li>
+  <li><a href="javascript:;">Listing Packages</a></li>
+  <li><a href="javascript:;">npm versioning</a></li>
+  <li><a href="javascript:;">Installing from package json</a></li>
+  <li><a href="javascript:;">Updating Packages</a></li>
+  <li><a href="javascript:;">npm Prune</a></li>
+  <li><a href="javascript:;">Shortcuts</a></li>
+  <li><a href="javascript:;">npm Scripts</a></li>
+</ol>
+
+## Introduction
+npm is a package manager for the JavaScript programming language. It is the default package manager for the JavaScript runtime environment Node.js. It consists of a command line client, also called npm, and an online database of public and paid-for private packages, called the npm registry.
+
+## Getting npm
+Download the latest version of node JS as per OS
+- <a href="https://nodejs.org/en/download">https://nodejs.org/en/download</a>
+- **Version Check:** node -v
+
+## npm Help
+use
+- **npm help** in command prompt
+- **npm install -h** Diffrent way to install
+- Help Search **npm help** -search update"
+- **npm help** update (Open the documentation in browser)
+
+## package.json File
+- manage dependencies (Dev | Global | Local)
+- Scripts for intial build and test
+Using **npm init** you can create package.json file (After giving some answer), "npm init --yes" to create package.json with default answer
+
+## package json Defaults
+## Installing Local Packages
+## Uninstalling Local Packages
+## Installing Global Packages
+## Uninstalling Global Packages
+## Listing Packages
+## npm versioning
+## Installing from package json
+## Updating Packages
+## npm Prune
+## Shortcuts
+## npm Scripts
