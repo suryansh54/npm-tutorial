@@ -1,22 +1,22 @@
 # npm tutorial
 
 <ol>
-  <li><a href="javascript:;">Introduction</a></li>
-  <li><a href="javascript:;">Getting npm</a></li>
-  <li><a href="javascript:;">npm Help</a></li>
-  <li><a href="javascript:;">package.json File</a></li>
-  <li><a href="javascript:;">package json Defaults</a></li>
-  <li><a href="javascript:;">Installing Local Packages</a></li>
-  <li><a href="javascript:;">Uninstalling Local Packages</a></li>
-  <li><a href="javascript:;">Installing Global Packages</a></li>
-  <li><a href="javascript:;">Uninstalling Global Packages</a></li>
-  <li><a href="javascript:;">Listing Packages</a></li>
-  <li><a href="javascript:;">npm versioning</a></li>
-  <li><a href="javascript:;">Installing from package json</a></li>
-  <li><a href="javascript:;">Updating Packages</a></li>
-  <li><a href="javascript:;">npm Prune</a></li>
-  <li><a href="javascript:;">Shortcuts</a></li>
-  <li><a href="javascript:;">npm Scripts</a></li>
+  <li><a href="#introduction">Introduction</a></li>
+  <li><a href="#getting-npm">Getting npm</a></li>
+  <li><a href="#npm-help">npm Help</a></li>
+  <li><a href="#packagejson-file">package.json File</a></li>
+  <li><a href="#package-json-defaults">package json Defaults</a></li>
+  <li><a href="#installing-local-packages">Installing Local Packages</a></li>
+  <li><a href="#uninstalling-local-packages">Uninstalling Local Packages</a></li>
+  <li><a href="#installing-global-packages">Installing Global Packages</a></li>
+  <li><a href="#uninstalling-global-packages">Uninstalling Global Packages</a></li>
+  <li><a href="#listing-packages">Listing Packages</a></li>
+  <li><a href="#npm-versioning">npm versioning</a></li>
+  <li><a href="#installing-from-package-json">Installing from package json</a></li>
+  <li><a href="#updating-packages">Updating Packages</a></li>
+  <li><a href="#npm-prune">npm Prune</a></li>
+  <li><a href="#shortcuts">Shortcuts</a></li>
+  <li><a href="#npm-scripts">npm Scripts</a></li>
 </ol>
 
 ## Introduction
