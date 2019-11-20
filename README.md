@@ -5,7 +5,7 @@
   <li><a href="#getting-npm">Getting npm</a></li>
   <li><a href="#npm-help">npm Help</a></li>
   <li><a href="#packagejson-file">package.json File</a></li>
-  <li><a href="#package-json-defaults">package-lock.json File</a></li>
+  <li><a href="#package-lockjson-file">package-lock.json File</a></li>
   <li><a href="#package-json-defaults">package json Defaults</a></li>
   <li><a href="#installing-local-packages">Installing Local Packages</a></li>
   <li><a href="#uninstalling-local-packages">Uninstalling Local Packages</a></li>
